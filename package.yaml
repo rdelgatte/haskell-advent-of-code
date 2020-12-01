@@ -1,0 +1,48 @@
+name:                haskell-advent-of-code
+version:             0.1.0.0
+github:              "rdelgatte/haskell-advent-of-code"
+
+extra-source-files:
+- README.md
+- ChangeLog.md
+
+description:         Please see the README on GitHub at <https://github.com/githubuser/haskell-advent-of-code#readme>
+
+dependencies:
+- base >= 4.7 && < 5
+- text
+
+library:
+  source-dirs: src
+
+executables:
+  haskell-advent-of-code-exe:
+    main:                Main.hs
+    source-dirs:         app
+    ghc-options:
+    - -threaded
+    - -rtsopts
+    - -with-rtsopts=-N
+    dependencies:
+    - haskell-advent-of-code
+
+tests:
+  haskell-advent-of-code-test:
+    main:                Spec.hs
+    source-dirs:         test
+    ghc-options:
+    - -threaded
+    - -rtsopts
+    - -with-rtsopts=-N
+    dependencies:
+    - haskell-advent-of-code
+    # Property based testing
+    - hedgehog
+    - tasty-hedgehog
+    # Unit testing
+    - HUnit
+    # Test aggregation and discovery
+    - tasty
+    - tasty-hspec
+    - tasty-hunit
+    - tasty-discover
