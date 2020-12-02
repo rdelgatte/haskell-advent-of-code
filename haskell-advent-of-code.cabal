@@ -23,6 +23,7 @@ source-repository head
 library
   exposed-modules:
       Day1
+      Day2
       Lib
   other-modules:
       Paths_haskell_advent_of_code
@@ -51,6 +52,7 @@ test-suite haskell-advent-of-code-test
   main-is: Spec.hs
   other-modules:
       Day1Spec
+      Day2Spec
       Paths_haskell_advent_of_code
   hs-source-dirs:
       test
