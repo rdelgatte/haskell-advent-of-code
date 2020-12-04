@@ -24,6 +24,7 @@ library
   exposed-modules:
       Day1
       Day2
+      Day3
       Lib
   other-modules:
       Paths_haskell_advent_of_code
@@ -53,6 +54,7 @@ test-suite haskell-advent-of-code-test
   other-modules:
       Day1Spec
       Day2Spec
+      Day3Spec
       Paths_haskell_advent_of_code
   hs-source-dirs:
       test

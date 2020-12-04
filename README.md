@@ -25,3 +25,16 @@ Results:
 "Part 2: How many passwords are valid according to the new interpretation of the policies?"
 482
 ```
+
+## Day 3: Toboggan Trajectory 
+
+[Puzzle 3: https://adventofcode.com/2020/day/3](https://adventofcode.com/2020/day/3)
+
+Results: 
+```bash
+"--- Day 3: Toboggan Trajectory ---"
+"Part 1: How many trees would you encounter?"
+209
+"Part 2: What do you get if you multiply together the number of trees encountered on each of the listed slopes?"
+1574890240
+```
