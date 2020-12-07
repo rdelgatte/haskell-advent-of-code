@@ -38,3 +38,13 @@ Results:
 "Part 2: What do you get if you multiply together the number of trees encountered on each of the listed slopes?"
 1574890240
 ```
+
+## Day 4: Passport Processing
+
+[Puzzle 4: https://adventofcode.com/2020/day/4](https://adventofcode.com/2020/day/4)
+
+"--- Day 4: Passport Processing ---"
+"Part 1: In your batch file, how many passports are valid?"
+233
+"Part 2: In your batch file, how many passports are valid?"
+111
