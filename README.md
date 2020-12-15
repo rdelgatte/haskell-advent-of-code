@@ -43,8 +43,24 @@ Results:
 
 [Puzzle 4: https://adventofcode.com/2020/day/4](https://adventofcode.com/2020/day/4)
 
+Results: 
+```bash
 "--- Day 4: Passport Processing ---"
 "Part 1: In your batch file, how many passports are valid?"
 233
 "Part 2: In your batch file, how many passports are valid?"
 111
+```
+
+## Day 5: Binary Boarding
+
+[Puzzle 5: https://adventofcode.com/2020/day/5](https://adventofcode.com/2020/day/5)
+
+Results: 
+```bash
+"--- Day 5: Binary Boarding ---"
+"Part 1: What is the highest seat ID on a boarding pass?"
+866
+"Part 2: What is the ID of your seat?"
+Just 583
+```
