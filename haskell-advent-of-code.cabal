@@ -27,6 +27,7 @@ library
       Day3
       Day4
       Day5
+      Day6
       Lib
   other-modules:
       Paths_haskell_advent_of_code
@@ -59,6 +60,7 @@ test-suite haskell-advent-of-code-test
       Day3Spec
       Day4Spec
       Day5Spec
+      Day6Spec
       Paths_haskell_advent_of_code
   hs-source-dirs:
       test

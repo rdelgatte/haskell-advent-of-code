@@ -64,3 +64,16 @@ Results:
 "Part 2: What is the ID of your seat?"
 Just 583
 ```
+
+## Day 6: Custom Customs
+
+[Puzzle 6: https://adventofcode.com/2020/day/6](https://adventofcode.com/2020/day/6)
+
+Results: 
+```bash
+"--- Day 6: Custom Customs ---"
+"Part 1: What is the sum of those counts?"
+6930
+"Part 2: What is the sum of those counts?"
+3584
+```
